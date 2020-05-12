@@ -1,6 +1,2 @@
 firstgitkrakengithub
-this is an edit made in the ef branch 
-hello my name is emmanuel 
-wow im making edits to the master branch
-
-im editing on master but i hope to push this tio the efedit branch 
+lets start fresh that master branch was getting dirty
