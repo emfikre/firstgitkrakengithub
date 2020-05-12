@@ -5,3 +5,4 @@ hello my name is emmanuel
 wow im making edits to the master branch 
 
 lets edit boyz hopefully without conflict 
+ideaof commiting the remote branch
